@@ -1,0 +1,13 @@
+name: "automatization"
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+jobs:
+  say-hi:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Hello
+        run: echo "Hello World"
