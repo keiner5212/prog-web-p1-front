@@ -1,10 +1,11 @@
 import React from "react"
+import { Link } from "react-router-dom"
 
 function Home() {
     return (
         <>
-        hola
-        <a href="/home">este es un link de prueba</a>
+            hola
+            <Link to="/home">este es un link de prueba</Link>
         </>
     )
 }
