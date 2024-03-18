@@ -1,5 +1,6 @@
 {
   "name": "prog-web-p1-front",
+  "homepage": ".",
   "private": true,
   "version": "1.0.0",
   "type": "module",
