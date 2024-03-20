@@ -17,7 +17,7 @@ export default function NotFound() {
                     </p>
                 </p>
                 <button
-                    className="text-blue-700 border border-gray-300 bg-transparent focus:outline-none rounded-full text-sm text-center hover:bg-gray-200"
+                    className="text-blue-700 border border-gray-300 bg-transparent focus:outline-none rounded-full text-sm text-center hover:bg-gray-300"
                 >
                     <a className="flex flex-row items-center justify-center px-5 py-2.5" href="/" >
                         HOME
